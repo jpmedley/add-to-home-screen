@@ -1,0 +1,32 @@
+{
+  "short_name": "",
+  "name": "",
+  "icons": [
+    {
+      "src":"",
+      "sizes": "36x36"
+    },
+    {
+      "src":"",
+      "sizes": "48x48"
+    },
+    {
+      "src":"",
+      "sizes": "72x72"
+    },
+    {
+      "src":"",
+      "sizes": "96x96"
+    },
+    {
+      "src":"",
+      "sizes": "144x144"
+    },
+    {
+      "src":"",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "",
+  "background_color": ""
+}
